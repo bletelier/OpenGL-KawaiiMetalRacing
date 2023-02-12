@@ -10,3 +10,4 @@ Credits:
 2. Eduardo Vera
 3. Paula Mancilla
 4. Mathias Oyarzún
+5. To the plugins creators too
